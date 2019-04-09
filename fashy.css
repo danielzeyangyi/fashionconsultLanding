@@ -1,0 +1,27 @@
+#content{
+   text-align: center;
+   padding-top: 25%;
+   text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                0px 8px 13px rgba(0,0,0,0.1),
+                0px 18px 23px rgba(0,0,0,0.1)
+
+}
+
+body{
+	background-image: url("https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d62aa1141ac7384a3124dec53ee2256a&auto=format&fit=crop&w=1350&q=80");
+    background-size: cover;
+    font-family: Merriweather;
+    color: white;
+}
+
+h1{
+	font-size: 350%;
+	font-weight: 700;
+}
+
+html{
+	height: 100%;
+}
+hr{
+	width: 50%
+}
